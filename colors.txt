@@ -9808,9 +9808,13 @@ ethereal:candle_yellow 209 197 69
 ethereal:coconut 66 27 0
 ethereal:cold_dirt 128 165 97
 ethereal:coral2 82 170 182
+ethereal:coral2_rooted 214 207 158
 ethereal:coral3 237 107 1
+ethereal:coral3_rooted 214 207 158
 ethereal:coral4 254 153 184
+ethereal:coral4_rooted 214 207 158
 ethereal:coral5 157 192 99
+ethereal:coral5_rooted 214 207 158
 ethereal:crystal_block 111 160 169
 ethereal:crystal_dirt 50 97 119
 ethereal:crystal_moss 50 97 119
@@ -10215,6 +10219,7 @@ ethereal:sakura_wood 241 180 129
 ethereal:sandy 214 207 158
 ethereal:scorched_tree 111 113 110
 ethereal:seaweed 98 131 77
+ethereal:seaweed_rooted 214 207 158
 ethereal:slab_bamboo_block_1 143 104 40
 ethereal:slab_bamboo_block_12 143 104 40
 ethereal:slab_bamboo_block_14 143 104 40
