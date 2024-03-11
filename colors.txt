@@ -1475,8 +1475,6 @@ biofuel:refinery 213 214 214
 biofuel:refinery_active 213 214 214
 
 # boards
-boards:black_board 131 102 57
-boards:green_board 131 102 57
 
 # bones
 bones:bones 117 117 117
@@ -20259,8 +20257,6 @@ smartshop:storage_lacks_refill 149 115 69
 stairsplus:circular_saw 106 91 71
 
 # steles
-steles:desert_stone_stele 130 79 61
-steles:sandstone_stele 198 193 143
 steles:stone_stele 97 94 93
 
 # streets
