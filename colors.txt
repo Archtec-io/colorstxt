@@ -23107,8 +23107,8 @@ xdecor:cauldron_idle_soup 82 66 39
 xdecor:cauldron_soup 100 78 44
 xdecor:chair 153 101 63
 xdecor:coalstone_tile 103 103 105
-xdecor:curtain_open_red 220 220 220
-xdecor:curtain_red 220 220 220
+xdecor:curtain_open_red 170 18 18
+xdecor:curtain_red 170 18 18
 xdecor:cushion 166 40 40
 xdecor:cushion_block 166 40 40
 xdecor:desertstone_tile 142 91 77
