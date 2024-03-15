@@ -10890,6 +10890,14 @@ ethereal:stair_yellow_wood_outer 116 131 59
 ethereal:stair_yellow_wood_right_half 116 131 59
 ethereal:stone_ladder 100 99 83
 ethereal:stone_with_etherium_ore 97 94 93
+ethereal:strawberry_1 95 130 56
+ethereal:strawberry_2 126 150 103
+ethereal:strawberry_3 140 161 112
+ethereal:strawberry_4 150 166 112
+ethereal:strawberry_5 174 175 116
+ethereal:strawberry_6 171 156 111
+ethereal:strawberry_7 175 146 99
+ethereal:strawberry_8 178 138 90
 ethereal:stripped_banana_trunk 180 190 114
 ethereal:stripped_birch_trunk 197 190 165
 ethereal:stripped_frost_tree 123 159 208
