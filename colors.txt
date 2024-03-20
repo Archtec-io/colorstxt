@@ -21876,6 +21876,9 @@ techage:turbine 201 140 79
 techage:turbine_on 201 140 79
 techage:water_stop 0 0 0
 
+# techage_addon
+techage_addon:dry_ice 168 206 247
+
 # technic
 technic:brass_block_technic_cnc_cylinder 194 161 58
 technic:brass_block_technic_cnc_element_cross 194 161 58
