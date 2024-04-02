@@ -20135,6 +20135,9 @@ quartz:stair_pillar_inner 240 238 238
 quartz:stair_pillar_outer 240 238 238
 quartz:stair_pillar_right_half 240 238 238
 
+# realchess
+realchess:chessboard 166 128 90
+
 # ropes
 ropes:copper1rope_block 0 0 0
 ropes:copper2rope_block 0 0 0
