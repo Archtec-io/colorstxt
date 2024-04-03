@@ -13043,10 +13043,6 @@ homedecor:fence_barbed_wire_corner 158 143 130
 homedecor:fence_brass 204 171 101
 homedecor:fence_chainlink 93 93 93
 homedecor:fence_chainlink_corner 123 123 123
-homedecor:fence_picket 0 0 0
-homedecor:fence_picket_corner 0 0 0
-homedecor:fence_picket_corner_white 0 0 0
-homedecor:fence_picket_white 0 0 0
 homedecor:fence_privacy 108 85 60
 homedecor:fence_privacy_corner 109 87 62
 homedecor:fence_wrought_iron 61 53 48
@@ -13068,22 +13064,9 @@ homedecor:gate_half_door_closed 134 94 60
 homedecor:gate_half_door_open 134 94 60
 homedecor:gate_half_door_white_closed 205 205 205
 homedecor:gate_half_door_white_open 205 205 205
-homedecor:gate_picket_closed 0 0 0
-homedecor:gate_picket_open 0 0 0
-homedecor:gate_picket_white_closed 0 0 0
-homedecor:gate_picket_white_open 0 0 0
 homedecor:glass_table_large_square 186 186 186
-homedecor:glass_table_large_square_with_brass_legs 0 0 0
-homedecor:glass_table_large_square_with_wood_legs 0 0 0
-homedecor:glass_table_large_square_with_wrought_iron_legs 0 0 0
 homedecor:glass_table_small_round 202 202 202
-homedecor:glass_table_small_round_with_brass_legs 0 0 0
-homedecor:glass_table_small_round_with_wood_legs 0 0 0
-homedecor:glass_table_small_round_with_wrought_iron_legs 0 0 0
 homedecor:glass_table_small_square 178 178 178
-homedecor:glass_table_small_square_with_brass_legs 0 0 0
-homedecor:glass_table_small_square_with_wood_legs 0 0 0
-homedecor:glass_table_small_square_with_wrought_iron_legs 0 0 0
 homedecor:glowlight_half_0 149 149 149
 homedecor:glowlight_half_1 149 149 149
 homedecor:glowlight_half_10 149 149 149
@@ -13431,17 +13414,8 @@ homedecor:window_plain 243 243 216
 homedecor:window_quartered 243 243 216
 homedecor:wine_rack 131 69 57
 homedecor:wood_table_large_square 134 91 50
-homedecor:wood_table_large_square_with_brass_legs 0 0 0
-homedecor:wood_table_large_square_with_wood_legs 0 0 0
-homedecor:wood_table_large_square_with_wrought_iron_legs 0 0 0
 homedecor:wood_table_small_round 123 83 46
-homedecor:wood_table_small_round_with_brass_legs 0 0 0
-homedecor:wood_table_small_round_with_wood_legs 0 0 0
-homedecor:wood_table_small_round_with_wrought_iron_legs 0 0 0
 homedecor:wood_table_small_square 128 86 47
-homedecor:wood_table_small_square_with_brass_legs 0 0 0
-homedecor:wood_table_small_square_with_wood_legs 0 0 0
-homedecor:wood_table_small_square_with_wrought_iron_legs 0 0 0
 
 # hopper
 hopper:hopper 113 116 111
