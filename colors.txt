@@ -20677,7 +20677,6 @@ techage:micro_sieved_basalt_gravel_15 132 132 132
 techage:micro_sieved_basalt_gravel_2 132 132 132
 techage:micro_sieved_basalt_gravel_4 132 132 132
 techage:micro_sieved_basalt_gravel_8 132 132 132
-techage:moveblock 0 0 0
 techage:oil_drillbit 59 63 85
 techage:oil_drillbit2 59 63 85
 techage:oil_flowing 13 13 13
@@ -21845,7 +21844,6 @@ techage:tubeS 191 150 117
 techage:tube_wall_entry 179 172 165
 techage:turbine 201 140 79
 techage:turbine_on 201 140 79
-techage:water_stop 0 0 0
 
 # techage_addon
 techage_addon:dry_ice 168 206 247
