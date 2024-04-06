@@ -4257,6 +4257,12 @@ christmas_decor:stair_peppermint_block_inner 250 161 161
 christmas_decor:stair_peppermint_block_outer 250 161 161
 christmas_decor:stocking 178 155 153
 
+# christmastree
+christmastree:christmas_wreath 63 25 9
+christmastree:indoortree 43 57 28
+christmastree:outdoortree 28 54 12
+christmastree:outdoortree_snow 61 79 67
+
 # colored_concrete
 colored_concrete:black 8 10 14
 colored_concrete:blue 41 43 138
