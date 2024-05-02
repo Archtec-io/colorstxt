@@ -2,7 +2,6 @@
 3d_armor_stand:armor_stand 165 155 144
 3d_armor_stand:locked_armor_stand 167 159 150
 3d_armor_stand:shared_armor_stand 175 159 144
-3d_armor_stand:top 0 0 0
 
 # abriglass
 abriglass:clear_glass 33 28 27
