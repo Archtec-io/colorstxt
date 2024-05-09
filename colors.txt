@@ -10033,6 +10033,8 @@ ethereal:micro_yellow_wood_2 116 131 59
 ethereal:micro_yellow_wood_4 116 131 59
 ethereal:micro_yellow_wood_8 116 131 59
 ethereal:mushroom 137 100 91
+ethereal:mushroom_brown 177 131 102
+ethereal:mushroom_brown_sapling 117 90 65
 ethereal:mushroom_dirt 115 71 114
 ethereal:mushroom_moss 115 71 114
 ethereal:mushroom_pore 201 169 119
