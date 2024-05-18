@@ -13942,6 +13942,11 @@ mahogany:stair_wood_right_half 145 83 61
 mahogany:trunk 135 76 54
 mahogany:wood 145 83 61
 
+# mailbox
+mailbox:letterbox 77 106 156
+mailbox:mailbox 209 80 60
+mailbox:mailbox_free 91 209 60
+
 # mapserver
 
 # markers
