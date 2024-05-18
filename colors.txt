@@ -1464,7 +1464,7 @@ biofuel:refinery_active 213 214 214
 # boards
 
 # bones
-bones:bones 117 117 117
+bones:bones 133 133 133
 
 # bridger
 bridger:foundation 183 183 183
@@ -6985,11 +6985,11 @@ default:goldblock_technic_cnc_sphere 231 203 35
 default:goldblock_technic_cnc_spike 231 203 35
 default:goldblock_technic_cnc_stick 231 203 35
 default:goldblock_technic_cnc_twocurvededge 231 203 35
-default:grass_1 100 140 54
-default:grass_2 98 139 55
-default:grass_3 94 136 53
-default:grass_4 89 133 48
-default:grass_5 86 126 48
+default:grass_1 76 109 38
+default:grass_2 83 111 45
+default:grass_3 86 112 49
+default:grass_4 91 114 55
+default:grass_5 94 114 61
 default:gravel 132 132 132
 default:ice 168 206 247
 default:ice_technic_cnc_cylinder 168 206 247
@@ -11963,13 +11963,13 @@ farming:melon_6 156 170 28
 farming:melon_7 144 161 21
 farming:melon_8 102 139 35
 farming:micro_hemp_block_8 124 136 45
-farming:micro_straw_1 212 184 68
-farming:micro_straw_12 212 184 68
-farming:micro_straw_14 212 184 68
-farming:micro_straw_15 212 184 68
-farming:micro_straw_2 212 184 68
-farming:micro_straw_4 212 184 68
-farming:micro_straw_8 212 184 68
+farming:micro_straw_1 212 184 69
+farming:micro_straw_12 212 184 69
+farming:micro_straw_14 212 184 69
+farming:micro_straw_15 212 184 69
+farming:micro_straw_2 212 184 69
+farming:micro_straw_4 212 184 69
+farming:micro_straw_8 212 184 69
 farming:mint_1 113 167 75
 farming:mint_2 113 167 75
 farming:mint_3 113 167 75
@@ -11987,13 +11987,13 @@ farming:onion_2 105 154 0
 farming:onion_3 106 156 0
 farming:onion_4 127 167 69
 farming:onion_5 179 185 93
-farming:panel_straw_1 212 184 68
-farming:panel_straw_12 212 184 68
-farming:panel_straw_14 212 184 68
-farming:panel_straw_15 212 184 68
-farming:panel_straw_2 212 184 68
-farming:panel_straw_4 212 184 68
-farming:panel_straw_8 212 184 68
+farming:panel_straw_1 212 184 69
+farming:panel_straw_12 212 184 69
+farming:panel_straw_14 212 184 69
+farming:panel_straw_15 212 184 69
+farming:panel_straw_2 212 184 69
+farming:panel_straw_4 212 184 69
+farming:panel_straw_8 212 184 69
 farming:parsley_1 118 187 50
 farming:parsley_2 120 195 47
 farming:parsley_3 117 186 52
@@ -12069,32 +12069,32 @@ farming:seed_rye 184 174 133
 farming:seed_sunflower 167 162 116
 farming:seed_wheat 177 161 96
 farming:slab_hemp_block_8 124 136 45
-farming:slab_straw_1 212 184 68
-farming:slab_straw_12 212 184 68
-farming:slab_straw_14 212 184 68
-farming:slab_straw_15 212 184 68
-farming:slab_straw_2 212 184 68
-farming:slab_straw_4 212 184 68
-farming:slab_straw_8 212 184 68
-farming:slab_straw_three_sides 212 184 68
-farming:slab_straw_three_sides_u 212 184 68
-farming:slab_straw_two_sides 212 184 68
-farming:slope_straw 212 184 68
-farming:slope_straw_cut 212 184 68
-farming:slope_straw_half 212 184 68
-farming:slope_straw_half_raised 212 184 68
-farming:slope_straw_inner 212 184 68
-farming:slope_straw_inner_cut 212 184 68
-farming:slope_straw_inner_cut_half 212 184 68
-farming:slope_straw_inner_cut_half_raised 212 184 68
-farming:slope_straw_inner_half 212 184 68
-farming:slope_straw_inner_half_raised 212 184 68
-farming:slope_straw_outer 212 184 68
-farming:slope_straw_outer_cut 212 184 68
-farming:slope_straw_outer_cut_half 212 184 68
-farming:slope_straw_outer_cut_half_raised 212 184 68
-farming:slope_straw_outer_half 212 184 68
-farming:slope_straw_outer_half_raised 212 184 68
+farming:slab_straw_1 212 184 69
+farming:slab_straw_12 212 184 69
+farming:slab_straw_14 212 184 69
+farming:slab_straw_15 212 184 69
+farming:slab_straw_2 212 184 69
+farming:slab_straw_4 212 184 69
+farming:slab_straw_8 212 184 69
+farming:slab_straw_three_sides 212 184 69
+farming:slab_straw_three_sides_u 212 184 69
+farming:slab_straw_two_sides 212 184 69
+farming:slope_straw 212 184 69
+farming:slope_straw_cut 212 184 69
+farming:slope_straw_half 212 184 69
+farming:slope_straw_half_raised 212 184 69
+farming:slope_straw_inner 212 184 69
+farming:slope_straw_inner_cut 212 184 69
+farming:slope_straw_inner_cut_half 212 184 69
+farming:slope_straw_inner_cut_half_raised 212 184 69
+farming:slope_straw_inner_half 212 184 69
+farming:slope_straw_inner_half_raised 212 184 69
+farming:slope_straw_outer 212 184 69
+farming:slope_straw_outer_cut 212 184 69
+farming:slope_straw_outer_cut_half 212 184 69
+farming:slope_straw_outer_cut_half_raised 212 184 69
+farming:slope_straw_outer_half 212 184 69
+farming:slope_straw_outer_half_raised 212 184 69
 farming:soil 97 67 43
 farming:soil_wet 97 67 43
 farming:soy_1 146 177 103
@@ -12113,16 +12113,16 @@ farming:spinach_4 52 76 23
 farming:stair_hemp_block 124 136 45
 farming:stair_hemp_block_inner 124 136 45
 farming:stair_hemp_block_outer 124 136 45
-farming:stair_straw 212 184 68
-farming:stair_straw_alt_1 212 184 68
-farming:stair_straw_alt_2 212 184 68
-farming:stair_straw_alt_4 212 184 68
-farming:stair_straw_alt_8 212 184 68
-farming:stair_straw_half 212 184 68
-farming:stair_straw_inner 212 184 68
-farming:stair_straw_outer 212 184 68
-farming:stair_straw_right_half 212 184 68
-farming:straw 212 184 68
+farming:stair_straw 212 184 69
+farming:stair_straw_alt_1 212 184 69
+farming:stair_straw_alt_2 212 184 69
+farming:stair_straw_alt_4 212 184 69
+farming:stair_straw_alt_8 212 184 69
+farming:stair_straw_half 212 184 69
+farming:stair_straw_inner 212 184 69
+farming:stair_straw_outer 212 184 69
+farming:stair_straw_right_half 212 184 69
+farming:straw 212 184 69
 farming:sugar_cube 228 228 228
 farming:sunflower_1 91 143 51
 farming:sunflower_2 111 155 65
@@ -12199,7 +12199,7 @@ flowers:sunflower 125 120 12
 flowers:tulip 156 101 44
 flowers:tulip_black 78 120 72
 flowers:viola 115 69 184
-flowers:waterlily 107 160 68
+flowers:waterlily 93 122 40
 flowers:waterlily_225 92 121 39
 flowers:waterlily_45 93 121 39
 flowers:waterlily_675 91 120 38
@@ -12207,7 +12207,7 @@ flowers:waterlily_s1 87 116 33
 flowers:waterlily_s2 72 105 2
 flowers:waterlily_s3 74 107 3
 flowers:waterlily_s4 75 108 3
-flowers:waterlily_waving 107 160 68
+flowers:waterlily_waving 93 122 40
 
 # framedglass
 framedglass:steel_framed_glass 122 123 118
@@ -20224,6 +20224,7 @@ stairsplus:circular_saw 106 91 71
 
 # steles
 steles:desert_stone_stele 130 79 61
+steles:granite_stele 79 63 56
 steles:sandstone_stele 198 193 143
 steles:stone_stele 97 94 93
 
