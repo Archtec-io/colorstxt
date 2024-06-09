@@ -14127,14 +14127,14 @@ mesecons_button:button_on 123 123 123
 mesecons_debug:penalty_controller 156 159 155
 
 # mesecons_delayer
-mesecons_delayer:delayer_off_1 144 145 96
-mesecons_delayer:delayer_off_2 144 146 96
-mesecons_delayer:delayer_off_3 144 147 96
-mesecons_delayer:delayer_off_4 144 148 96
-mesecons_delayer:delayer_on_1 173 174 117
-mesecons_delayer:delayer_on_2 173 175 117
-mesecons_delayer:delayer_on_3 173 176 117
-mesecons_delayer:delayer_on_4 173 177 117
+mesecons_delayer:delayer_off_1 191 191 191
+mesecons_delayer:delayer_off_2 191 191 191
+mesecons_delayer:delayer_off_3 191 191 191
+mesecons_delayer:delayer_off_4 191 191 191
+mesecons_delayer:delayer_on_1 191 191 191
+mesecons_delayer:delayer_on_2 191 191 191
+mesecons_delayer:delayer_on_3 191 191 191
+mesecons_delayer:delayer_on_4 191 191 191
 
 # mesecons_detector
 mesecons_detector:node_detector_off 195 195 195
