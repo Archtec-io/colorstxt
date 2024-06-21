@@ -13946,6 +13946,7 @@ mailbox:mailbox 209 80 60
 mailbox:mailbox_free 91 209 60
 
 # mapserver
+mapserver:train 110 110 110
 
 # markers
 markers:mark 246 178 178
