@@ -1457,6 +1457,8 @@ bees:extractor 183 183 183
 bees:hive_artificial 131 102 57
 bees:hive_wild 157 128 36
 
+# bike
+
 # biofuel
 biofuel:refinery 213 214 214
 biofuel:refinery_active 213 214 214
