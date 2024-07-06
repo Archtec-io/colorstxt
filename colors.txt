@@ -17693,20 +17693,14 @@ moretrees:stair_willow_trunk_inner 129 115 69
 moretrees:stair_willow_trunk_outer 129 115 69
 moretrees:stair_willow_trunk_right_half 129 115 69
 moretrees:stripped_apple_tree_trunk 127 88 56
-moretrees:stripped_beech_trunk 187 115 57
 moretrees:stripped_birch_trunk 178 155 130
 moretrees:stripped_cedar_trunk 207 125 7
-moretrees:stripped_date_palm_ffruit_trunk 112 82 105
-moretrees:stripped_date_palm_fruit_trunk 112 82 105
-moretrees:stripped_date_palm_mfruit_trunk 112 82 105
 moretrees:stripped_date_palm_trunk 112 82 105
 moretrees:stripped_fir_trunk 149 104 87
-moretrees:stripped_jungletree_trunk 73 48 18
 moretrees:stripped_oak_trunk 30 19 8
 moretrees:stripped_palm_trunk 157 108 44
 moretrees:stripped_poplar_trunk 178 167 89
 moretrees:stripped_rubber_tree_trunk 163 148 122
-moretrees:stripped_rubber_tree_trunk_empty 163 148 122
 moretrees:stripped_sequoia_trunk 123 54 50
 moretrees:stripped_spruce_trunk 104 64 13
 moretrees:stripped_willow_trunk 183 169 100
@@ -20288,9 +20282,6 @@ streets:sign_triangle_t 30 30 30
 streets:sign_triangle_t_polemount 30 30 30
 streets:sign_triangle_w 30 30 30
 streets:sign_triangle_w_polemount 30 30 30
-
-# stripped_tree
-stripped_tree:chiseling_machine 138 112 107
 
 # ta4_addons
 ta4_addons:matrix_screen 0 0 0
