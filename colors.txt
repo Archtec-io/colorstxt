@@ -14356,6 +14356,7 @@ mobs:beehive 187 136 34
 mobs:cheeseblock 216 208 110
 mobs:cobweb 238 238 238
 mobs:egg 181 183 180
+mobs:fallback_node 104 87 43
 mobs:fence_top 131 102 57
 mobs:fence_wood 131 102 57
 mobs:honey_block 215 175 78
