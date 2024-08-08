@@ -7012,7 +7012,7 @@ default:ice_technic_cnc_sphere 168 206 247
 default:ice_technic_cnc_spike 168 206 247
 default:ice_technic_cnc_stick 168 206 247
 default:ice_technic_cnc_twocurvededge 168 206 247
-default:junglegrass 67 110 28
+default:junglegrass 85 109 65
 default:jungleleaves 22 31 16
 default:junglesapling 51 39 15
 default:jungletree 121 97 62
