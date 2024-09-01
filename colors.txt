@@ -9762,7 +9762,7 @@ ethereal:banana_bunch 173 163 42
 ethereal:banana_tree_sapling 84 132 43
 ethereal:banana_trunk 158 141 108
 ethereal:banana_wood 165 134 89
-ethereal:bananaleaves 50 96 38
+ethereal:bananaleaves 50 94 39
 ethereal:basandra_bush_leaves 112 20 24
 ethereal:basandra_bush_sapling 145 33 35
 ethereal:basandra_bush_stem 116 25 27
@@ -11955,7 +11955,7 @@ farming:lettuce_2 69 142 33
 farming:lettuce_3 79 137 36
 farming:lettuce_4 108 156 44
 farming:lettuce_5 129 173 59
-farming:mayonnaise 153 150 148
+farming:mayonnaise 145 130 122
 farming:melon_1 212 212 62
 farming:melon_2 214 214 63
 farming:melon_3 210 210 60
