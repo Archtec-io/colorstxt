@@ -6987,11 +6987,11 @@ default:goldblock_technic_cnc_sphere 231 203 35
 default:goldblock_technic_cnc_spike 231 203 35
 default:goldblock_technic_cnc_stick 231 203 35
 default:goldblock_technic_cnc_twocurvededge 231 203 35
-default:grass_1 100 140 54
-default:grass_2 98 139 55
-default:grass_3 94 136 53
-default:grass_4 89 133 48
-default:grass_5 86 126 48
+default:grass_1 76 109 38
+default:grass_2 83 111 45
+default:grass_3 86 112 49
+default:grass_4 91 114 55
+default:grass_5 94 114 61
 default:gravel 132 132 132
 default:ice 168 206 247
 default:ice_technic_cnc_cylinder 168 206 247
@@ -7012,7 +7012,7 @@ default:ice_technic_cnc_sphere 168 206 247
 default:ice_technic_cnc_spike 168 206 247
 default:ice_technic_cnc_stick 168 206 247
 default:ice_technic_cnc_twocurvededge 168 206 247
-default:junglegrass 67 110 28
+default:junglegrass 85 109 65
 default:jungleleaves 22 31 16
 default:junglesapling 51 39 15
 default:jungletree 121 97 62
@@ -10882,14 +10882,14 @@ ethereal:stair_yellow_wood_outer 113 128 57
 ethereal:stair_yellow_wood_right_half 113 128 57
 ethereal:stone_ladder 100 99 83
 ethereal:stone_with_etherium_ore 97 94 93
-ethereal:strawberry_1 95 130 56
-ethereal:strawberry_2 126 150 103
-ethereal:strawberry_3 140 161 112
-ethereal:strawberry_4 150 166 112
-ethereal:strawberry_5 174 175 116
-ethereal:strawberry_6 171 156 111
-ethereal:strawberry_7 175 146 99
-ethereal:strawberry_8 178 138 90
+ethereal:strawberry_1 59 95 35
+ethereal:strawberry_2 85 113 35
+ethereal:strawberry_3 88 114 35
+ethereal:strawberry_4 83 111 35
+ethereal:strawberry_5 86 113 35
+ethereal:strawberry_6 116 137 107
+ethereal:strawberry_7 144 156 130
+ethereal:strawberry_8 119 93 41
 ethereal:stripped_banana_trunk 180 190 114
 ethereal:stripped_birch_trunk 197 190 165
 ethereal:stripped_frost_tree 123 159 208
@@ -12202,7 +12202,7 @@ flowers:sunflower 125 120 12
 flowers:tulip 156 101 44
 flowers:tulip_black 78 120 72
 flowers:viola 115 69 184
-flowers:waterlily 107 160 68
+flowers:waterlily 93 122 40
 flowers:waterlily_225 92 121 39
 flowers:waterlily_45 93 121 39
 flowers:waterlily_675 91 120 38
@@ -12210,7 +12210,7 @@ flowers:waterlily_s1 87 116 33
 flowers:waterlily_s2 72 105 2
 flowers:waterlily_s3 74 107 3
 flowers:waterlily_s4 75 108 3
-flowers:waterlily_waving 107 160 68
+flowers:waterlily_waving 93 122 40
 
 # framedglass
 framedglass:steel_framed_glass 122 123 118
@@ -13427,7 +13427,7 @@ ilights:light_on 91 91 91
 # illumination
 
 # itemframes
-itemframes:frame 182 183 174
+itemframes:frame 197 168 139
 itemframes:frame_invis 0 0 0
 itemframes:pedestal 131 126 125
 
