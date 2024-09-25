@@ -14354,7 +14354,7 @@ minecart:terminal 136 138 131
 
 # mobs
 mobs:beehive 187 136 34
-mobs:cheeseblock 216 208 110
+mobs:cheeseblock 217 209 111
 mobs:cobweb 238 238 238
 mobs:egg 181 183 180
 mobs:fallback_node 104 87 43
@@ -22298,7 +22298,7 @@ wine:glass_tequila 242 243 210
 wine:glass_vodka 222 226 228
 wine:glass_wheat_beer 220 207 156
 wine:glass_wine 219 213 224
-wine:wine_barrel 159 111 71
+wine:wine_barrel 160 110 72
 
 # wool
 wool:black 30 30 30
