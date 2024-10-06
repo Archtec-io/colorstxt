@@ -9805,7 +9805,7 @@ ethereal:coral5_rooted 214 207 158
 ethereal:crystal_block 111 160 169
 ethereal:crystal_dirt 50 97 119
 ethereal:crystal_moss 50 97 119
-ethereal:crystal_spike 139 167 196
+ethereal:crystal_spike 140 171 203
 ethereal:crystalgrass 85 126 195
 ethereal:door_sakura_a 185 161 130
 ethereal:door_sakura_b 185 161 130
@@ -10047,11 +10047,11 @@ ethereal:olive_leaves 58 85 41
 ethereal:olive_tree_sapling 66 65 40
 ethereal:olive_trunk 137 83 58
 ethereal:olive_wood 169 108 26
-ethereal:onion_1 59 174 124
-ethereal:onion_2 59 174 124
-ethereal:onion_3 59 174 124
-ethereal:onion_4 59 174 124
-ethereal:onion_5 82 178 134
+ethereal:onion_1 92 145 60
+ethereal:onion_2 84 134 59
+ethereal:onion_3 89 140 62
+ethereal:onion_4 96 139 79
+ethereal:onion_5 105 144 87
 ethereal:orange 197 113 26
 ethereal:orange_leaves 51 104 41
 ethereal:orange_tree_sapling 105 82 33
