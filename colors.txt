@@ -10899,6 +10899,7 @@ ethereal:stripped_sakura_trunk 192 153 192
 ethereal:stripped_scorched_tree 113 113 113
 ethereal:stripped_willow_trunk 192 165 132
 ethereal:stripped_yellow_trunk 181 217 129
+ethereal:thin_ice 168 206 247
 ethereal:vine 21 96 14
 ethereal:willow_sapling 56 96 68
 ethereal:willow_trunk 180 157 126
