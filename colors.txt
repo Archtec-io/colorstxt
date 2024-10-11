@@ -14361,6 +14361,8 @@ mobs:egg 181 183 180
 mobs:fallback_node 104 87 43
 mobs:fence_top 131 102 57
 mobs:fence_wood 131 102 57
+mobs:hearing_vines 28 75 26
+mobs:hearing_vines_active 104 112 65
 mobs:honey_block 215 175 78
 mobs:meatblock 90 71 41
 mobs:meatblock_raw 211 68 68
