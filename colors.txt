@@ -13426,7 +13426,7 @@ ilights:light_on 91 91 91
 # illumination
 
 # itemframes
-itemframes:frame 197 168 139
+itemframes:frame 175 146 120
 itemframes:frame_invis 0 0 0
 itemframes:pedestal 131 126 125
 
