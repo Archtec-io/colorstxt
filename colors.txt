@@ -21366,6 +21366,8 @@ techage:ta2_quarry_act 128 115 101
 techage:ta2_quarry_pas 128 115 101
 techage:ta2_rinser_act 133 118 101
 techage:ta2_rinser_pas 169 157 143
+techage:ta2_waterremover_act 128 115 101
+techage:ta2_waterremover_pas 128 115 101
 techage:ta2_weight_chest 128 115 101
 techage:ta2_winch 128 115 101
 techage:ta3_akku 201 140 79
@@ -21504,6 +21506,8 @@ techage:ta3_tank 201 140 79
 techage:ta3_timer 201 140 79
 techage:ta3_valve_closed 238 204 78
 techage:ta3_valve_open 238 204 78
+techage:ta3_waterremover_act 201 140 79
+techage:ta3_waterremover_pas 201 140 79
 techage:ta4_autocrafter_act 205 206 204
 techage:ta4_autocrafter_pas 219 221 218
 techage:ta4_battery 24 119 174
@@ -21675,6 +21679,8 @@ techage:ta4_turncontroller 219 221 218
 techage:ta4_vtubeA 38 78 163
 techage:ta4_vtubeS 38 78 163
 techage:ta4_waterinlet 219 221 218
+techage:ta4_waterremover_act 219 221 218
+techage:ta4_waterremover_pas 219 221 218
 techage:ta4_wind_turbine 254 254 254
 techage:ta4_wind_turbine_nacelle 254 254 254
 techage:ta5_flycontroller 219 221 218
