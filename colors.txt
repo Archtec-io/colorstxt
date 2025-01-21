@@ -6987,11 +6987,11 @@ default:goldblock_technic_cnc_sphere 231 203 35
 default:goldblock_technic_cnc_spike 231 203 35
 default:goldblock_technic_cnc_stick 231 203 35
 default:goldblock_technic_cnc_twocurvededge 231 203 35
-default:grass_1 100 140 54
-default:grass_2 98 139 55
-default:grass_3 94 136 53
-default:grass_4 89 133 48
-default:grass_5 86 126 48
+default:grass_1 76 109 38
+default:grass_2 83 111 45
+default:grass_3 86 112 49
+default:grass_4 91 114 55
+default:grass_5 94 114 61
 default:gravel 132 132 132
 default:ice 168 206 247
 default:ice_technic_cnc_cylinder 168 206 247
@@ -7012,7 +7012,7 @@ default:ice_technic_cnc_sphere 168 206 247
 default:ice_technic_cnc_spike 168 206 247
 default:ice_technic_cnc_stick 168 206 247
 default:ice_technic_cnc_twocurvededge 168 206 247
-default:junglegrass 67 110 28
+default:junglegrass 85 109 65
 default:jungleleaves 22 31 16
 default:junglesapling 51 39 15
 default:jungletree 121 97 62
@@ -12201,7 +12201,7 @@ flowers:sunflower 125 120 12
 flowers:tulip 156 101 44
 flowers:tulip_black 78 120 72
 flowers:viola 115 69 184
-flowers:waterlily 107 160 68
+flowers:waterlily 93 122 40
 flowers:waterlily_225 92 121 39
 flowers:waterlily_45 93 121 39
 flowers:waterlily_675 91 120 38
@@ -12209,7 +12209,7 @@ flowers:waterlily_s1 87 116 33
 flowers:waterlily_s2 72 105 2
 flowers:waterlily_s3 74 107 3
 flowers:waterlily_s4 75 108 3
-flowers:waterlily_waving 107 160 68
+flowers:waterlily_waving 93 122 40
 
 # framedglass
 framedglass:steel_framed_glass 122 123 118
@@ -13426,7 +13426,7 @@ ilights:light_on 91 91 91
 # illumination
 
 # itemframes
-itemframes:frame 182 183 174
+itemframes:frame 175 146 120
 itemframes:frame_invis 0 0 0
 itemframes:pedestal 131 126 125
 
@@ -21366,8 +21366,6 @@ techage:ta2_quarry_act 128 115 101
 techage:ta2_quarry_pas 128 115 101
 techage:ta2_rinser_act 133 118 101
 techage:ta2_rinser_pas 169 157 143
-techage:ta2_waterremover_act 128 115 101
-techage:ta2_waterremover_pas 128 115 101
 techage:ta2_weight_chest 128 115 101
 techage:ta2_winch 128 115 101
 techage:ta3_akku 201 140 79
@@ -21506,8 +21504,6 @@ techage:ta3_tank 201 140 79
 techage:ta3_timer 201 140 79
 techage:ta3_valve_closed 238 204 78
 techage:ta3_valve_open 238 204 78
-techage:ta3_waterremover_act 201 140 79
-techage:ta3_waterremover_pas 201 140 79
 techage:ta4_autocrafter_act 205 206 204
 techage:ta4_autocrafter_pas 219 221 218
 techage:ta4_battery 24 119 174
@@ -21670,22 +21666,22 @@ techage:ta4_solar_minicell 122 120 123
 techage:ta4_solar_module 80 78 89
 techage:ta4_tank 219 221 218
 techage:ta4_terminal 42 49 50
-techage:ta4_trafficlight1 47 44 43
-techage:ta4_trafficlight1B 47 44 43
-techage:ta4_trafficlight1B_amber 47 44 43
-techage:ta4_trafficlight1B_green 47 44 43
-techage:ta4_trafficlight1B_red 47 44 43
-techage:ta4_trafficlight1_amber 47 44 43
-techage:ta4_trafficlight1_green 47 44 43
-techage:ta4_trafficlight1_red 47 44 43
-techage:ta4_trafficlight2 212 166 52
-techage:ta4_trafficlight2B 212 166 52
-techage:ta4_trafficlight2B_amber 212 166 52
-techage:ta4_trafficlight2B_green 212 166 52
-techage:ta4_trafficlight2B_red 212 166 52
-techage:ta4_trafficlight2_amber 212 166 52
-techage:ta4_trafficlight2_green 212 166 52
-techage:ta4_trafficlight2_red 212 166 52
+techage:ta4_trafficlight1 55 49 44
+techage:ta4_trafficlight1B 55 49 44
+techage:ta4_trafficlight1B_amber 73 53 44
+techage:ta4_trafficlight1B_green 52 65 44
+techage:ta4_trafficlight1B_red 73 47 44
+techage:ta4_trafficlight1_amber 73 53 44
+techage:ta4_trafficlight1_green 52 65 44
+techage:ta4_trafficlight1_red 73 47 44
+techage:ta4_trafficlight2 198 155 57
+techage:ta4_trafficlight2B 198 155 57
+techage:ta4_trafficlight2B_amber 204 157 57
+techage:ta4_trafficlight2B_green 197 161 57
+techage:ta4_trafficlight2B_red 204 155 57
+techage:ta4_trafficlight2_amber 204 157 57
+techage:ta4_trafficlight2_green 197 161 57
+techage:ta4_trafficlight2_red 204 155 57
 techage:ta4_transformer 219 221 218
 techage:ta4_tubeA 153 155 198
 techage:ta4_tubeS 175 177 209
