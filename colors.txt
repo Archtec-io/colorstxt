@@ -9751,17 +9751,6 @@ drawers:wood2 162 132 81
 drawers:wood4 162 132 81
 
 # ethereal
-ethereal:all_faces_banana_trunk 158 141 108
-ethereal:all_faces_birch_trunk 168 154 132
-ethereal:all_faces_frost_tree 98 126 171
-ethereal:all_faces_mushroom_trunk 237 237 237
-ethereal:all_faces_olive_trunk 137 83 58
-ethereal:all_faces_palm_trunk 172 125 82
-ethereal:all_faces_redwood_trunk 73 31 14
-ethereal:all_faces_sakura_trunk 144 95 80
-ethereal:all_faces_scorched_tree 111 113 110
-ethereal:all_faces_willow_trunk 180 157 126
-ethereal:all_faces_yellow_trunk 144 171 87
 ethereal:bamboo 103 149 47
 ethereal:bamboo_block 143 105 40
 ethereal:bamboo_dirt 131 167 76
