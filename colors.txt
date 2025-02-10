@@ -14375,7 +14375,6 @@ mobs:fence_wood 131 102 57
 mobs:honey_block 215 175 78
 mobs:meatblock 90 71 41
 mobs:meatblock_raw 211 68 68
-mobs:mob_repellent 100 85 85
 mobs:spawner 34 78 108
 mobs:trader_block 97 94 93
 
