@@ -12166,8 +12166,6 @@ farming:vanilla_6 141 147 82
 farming:vanilla_7 124 120 74
 farming:vanilla_8 128 126 85
 farming:vanilla_extract 174 142 136
-farming:weed 12 112 21
-farming:weed_bale 132 152 53
 farming:wheat_1 110 175 36
 farming:wheat_2 136 177 53
 farming:wheat_3 163 182 84
