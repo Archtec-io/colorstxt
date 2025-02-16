@@ -7012,7 +7012,7 @@ default:ice_technic_cnc_sphere 168 206 247
 default:ice_technic_cnc_spike 168 206 247
 default:ice_technic_cnc_stick 168 206 247
 default:ice_technic_cnc_twocurvededge 168 206 247
-default:junglegrass 67 110 28
+default:junglegrass 85 109 65
 default:jungleleaves 22 31 16
 default:junglesapling 51 39 15
 default:jungletree 121 97 62
@@ -14375,6 +14375,7 @@ mobs:fence_wood 131 102 57
 mobs:honey_block 215 175 78
 mobs:meatblock 90 71 41
 mobs:meatblock_raw 211 68 68
+mobs:mob_repellent 100 85 85
 mobs:spawner 34 78 108
 mobs:trader_block 97 94 93
 
