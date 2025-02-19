@@ -21493,6 +21493,7 @@ techage:ta3_logic 201 140 79
 techage:ta3_logic2 201 140 79
 techage:ta3_mesecons_converter 201 140 79
 techage:ta3_mesecons_converter_on 201 140 79
+techage:ta3_monitor 110 109 109
 techage:ta3_motor_off 201 140 79
 techage:ta3_motor_on 201 140 79
 techage:ta3_nodedetector_off 201 140 79
@@ -21611,7 +21612,10 @@ techage:ta4_detector_magnet 117 58 68
 techage:ta4_detector_off 219 221 218
 techage:ta4_detector_on 219 221 218
 techage:ta4_display 156 226 65
+techage:ta4_display2 40 40 40
 techage:ta4_displayXL 156 226 65
+techage:ta4_displayXXL 40 40 40
+techage:ta4_displayXXL2 40 40 40
 techage:ta4_distributor_act 205 206 204
 techage:ta4_distributor_pas 219 221 218
 techage:ta4_doser 219 221 218
