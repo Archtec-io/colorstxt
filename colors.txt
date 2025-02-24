@@ -20581,6 +20581,7 @@ techage:industriallamp3_off 170 169 169
 techage:industriallamp3_on 194 30 30
 techage:industriallamp4_off 183 184 186
 techage:industriallamp4_on 236 236 236
+techage:iron_block 181 145 133
 techage:itemsource 201 140 79
 techage:lampholder1 236 236 236
 techage:lampholder2 210 199 170
