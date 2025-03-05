@@ -18393,10 +18393,10 @@ my_hidden_doors:hidden_doorcobble_a 89 86 84
 my_hidden_doors:hidden_doorcobble_b 89 86 84
 my_hidden_doors:hidden_doorcobble_c 89 86 84
 my_hidden_doors:hidden_doorcobble_d 89 86 84
-my_hidden_doors:hidden_doordesert_cobble_a 157 101 83
-my_hidden_doors:hidden_doordesert_cobble_b 157 101 83
-my_hidden_doors:hidden_doordesert_cobble_c 157 101 83
-my_hidden_doors:hidden_doordesert_cobble_d 157 101 83
+my_hidden_doors:hidden_doordesert_cobble_a 109 66 50
+my_hidden_doors:hidden_doordesert_cobble_b 109 66 50
+my_hidden_doors:hidden_doordesert_cobble_c 109 66 50
+my_hidden_doors:hidden_doordesert_cobble_d 109 66 50
 my_hidden_doors:hidden_doorfurnace_a 82 79 77
 my_hidden_doors:hidden_doorfurnace_b 82 79 77
 my_hidden_doors:hidden_doorfurnace_c 82 79 77
