@@ -16698,40 +16698,93 @@ morelights:pole_l 186 189 191
 
 # morelights_extras
 morelights_extras:dirt_with_grass 64 111 26
+morelights_extras:dirt_with_grass_morelights_dim_dimmed 64 111 26
+morelights_extras:dirt_with_grass_morelights_dim_off 64 111 26
 morelights_extras:f_block 227 221 217
+morelights_extras:f_block_morelights_dim_dimmed 227 221 217
+morelights_extras:f_block_morelights_dim_off 227 221 217
 morelights_extras:sandstone_block 195 191 142
+morelights_extras:sandstone_block_morelights_dim_dimmed 195 191 142
+morelights_extras:sandstone_block_morelights_dim_off 195 191 142
 morelights_extras:stairlight 44 39 36
+morelights_extras:stairlight_morelights_dim_dimmed 44 39 36
+morelights_extras:stairlight_morelights_dim_off 44 39 36
 morelights_extras:stone_block 100 97 96
+morelights_extras:stone_block_morelights_dim_dimmed 100 97 96
+morelights_extras:stone_block_morelights_dim_off 100 97 96
 
 # morelights_modern
 morelights_modern:barlight_c 44 39 36
+morelights_modern:barlight_c_morelights_dim_dimmed 44 39 36
+morelights_modern:barlight_c_morelights_dim_off 44 39 36
 morelights_modern:barlight_s 44 39 36
+morelights_modern:barlight_s_morelights_dim_dimmed 44 39 36
+morelights_modern:barlight_s_morelights_dim_off 44 39 36
 morelights_modern:block 44 39 36
+morelights_modern:block_morelights_dim_dimmed 44 39 36
+morelights_modern:block_morelights_dim_off 44 39 36
 morelights_modern:canlight_d 44 39 36
+morelights_modern:canlight_d_morelights_dim_dimmed 44 39 36
+morelights_modern:canlight_d_morelights_dim_off 44 39 36
 morelights_modern:canlight_l 191 191 193
+morelights_modern:canlight_l_morelights_dim_dimmed 191 191 193
+morelights_modern:canlight_l_morelights_dim_off 191 191 193
 morelights_modern:ceilinglight 44 39 36
+morelights_modern:ceilinglight_morelights_dim_dimmed 44 39 36
+morelights_modern:ceilinglight_morelights_dim_off 44 39 36
 morelights_modern:pathlight_d 45 41 37
+morelights_modern:pathlight_d_morelights_dim_dimmed 45 41 37
+morelights_modern:pathlight_d_morelights_dim_off 45 41 37
 morelights_modern:pathlight_l 186 189 191
+morelights_modern:pathlight_l_morelights_dim_dimmed 186 189 191
+morelights_modern:pathlight_l_morelights_dim_off 186 189 191
 morelights_modern:post_d 44 39 36
+morelights_modern:post_d_morelights_dim_dimmed 44 39 36
+morelights_modern:post_d_morelights_dim_off 44 39 36
 morelights_modern:post_l 191 191 193
+morelights_modern:post_l_morelights_dim_dimmed 191 191 193
+morelights_modern:post_l_morelights_dim_off 191 191 193
 morelights_modern:smallblock 44 39 36
+morelights_modern:smallblock_morelights_dim_dimmed 44 39 36
+morelights_modern:smallblock_morelights_dim_off 44 39 36
 morelights_modern:streetpost_d 44 39 36
 morelights_modern:streetpost_l 191 191 193
 morelights_modern:tablelamp_d 186 189 191
+morelights_modern:tablelamp_d_morelights_dim_dimmed 186 189 191
+morelights_modern:tablelamp_d_morelights_dim_off 186 189 191
 morelights_modern:tablelamp_l 45 41 37
+morelights_modern:tablelamp_l_morelights_dim_dimmed 45 41 37
+morelights_modern:tablelamp_l_morelights_dim_off 45 41 37
 morelights_modern:walllamp 45 41 37
+morelights_modern:walllamp_morelights_dim_dimmed 45 41 37
+morelights_modern:walllamp_morelights_dim_off 45 41 37
 
 # morelights_vintage
 morelights_vintage:block 246 235 189
+morelights_vintage:block_morelights_dim_dimmed 246 235 189
+morelights_vintage:block_morelights_dim_off 246 235 189
 morelights_vintage:chain_b 250 210 111
 morelights_vintage:chain_ceiling_b 250 210 111
 morelights_vintage:chandelier 154 135 97
+morelights_vintage:chandelier_morelights_dim_dimmed 154 135 97
+morelights_vintage:chandelier_morelights_dim_off 154 135 97
 morelights_vintage:hangingbulb 248 240 186
+morelights_vintage:hangingbulb_morelights_dim_dimmed 248 240 186
+morelights_vintage:hangingbulb_morelights_dim_off 248 240 186
 morelights_vintage:lantern_c 90 69 39
+morelights_vintage:lantern_c_morelights_dim_dimmed 90 69 39
+morelights_vintage:lantern_c_morelights_dim_off 90 69 39
 morelights_vintage:lantern_f 90 69 39
+morelights_vintage:lantern_f_morelights_dim_dimmed 90 69 39
+morelights_vintage:lantern_f_morelights_dim_off 90 69 39
 morelights_vintage:lantern_w 90 69 39
+morelights_vintage:lantern_w_morelights_dim_dimmed 90 69 39
+morelights_vintage:lantern_w_morelights_dim_off 90 69 39
 morelights_vintage:oillamp 224 192 134
+morelights_vintage:oillamp_morelights_dim_dimmed 224 192 134
 morelights_vintage:smallblock 246 235 189
+morelights_vintage:smallblock_morelights_dim_dimmed 246 235 189
+morelights_vintage:smallblock_morelights_dim_off 246 235 189
 
 # moreores
 moreores:copper_rail 152 115 79
@@ -22225,7 +22278,6 @@ techage_addon:dry_ice 168 206 247
 
 # technic
 technic:cnc 127 149 148
-technic:cnc_mk2 171 168 150
 technic:copper_chest 87 39 12
 technic:copper_locked_chest 87 39 12
 technic:copper_protected_chest 87 39 12
