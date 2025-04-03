@@ -18253,6 +18253,14 @@ my_cottage_doors:door2_locked_c 70 10 4
 my_cottage_doors:door2_locked_d 70 10 4
 
 # my_default_doors
+my_default_doors:door10_a 103 42 22
+my_default_doors:door10_b 103 42 22
+my_default_doors:door10_c 103 42 22
+my_default_doors:door10_d 103 42 22
+my_default_doors:door10_locked_a 103 42 22
+my_default_doors:door10_locked_b 103 42 22
+my_default_doors:door10_locked_c 103 42 22
+my_default_doors:door10_locked_d 103 42 22
 my_default_doors:door1_a 230 77 24
 my_default_doors:door1_b 230 77 24
 my_default_doors:door1_c 230 77 24
@@ -18293,6 +18301,30 @@ my_default_doors:door5_locked_a 224 231 3
 my_default_doors:door5_locked_b 224 231 3
 my_default_doors:door5_locked_c 224 231 3
 my_default_doors:door5_locked_d 224 231 3
+my_default_doors:door7_a 199 162 107
+my_default_doors:door7_b 199 162 107
+my_default_doors:door7_c 199 162 107
+my_default_doors:door7_d 199 162 107
+my_default_doors:door7_locked_a 199 162 107
+my_default_doors:door7_locked_b 199 162 107
+my_default_doors:door7_locked_c 199 162 107
+my_default_doors:door7_locked_d 199 162 107
+my_default_doors:door8_a 51 36 15
+my_default_doors:door8_b 51 36 15
+my_default_doors:door8_c 51 36 15
+my_default_doors:door8_d 51 36 15
+my_default_doors:door8_locked_a 51 36 15
+my_default_doors:door8_locked_b 51 36 15
+my_default_doors:door8_locked_c 51 36 15
+my_default_doors:door8_locked_d 51 36 15
+my_default_doors:door9_a 149 131 98
+my_default_doors:door9_b 149 131 98
+my_default_doors:door9_c 149 131 98
+my_default_doors:door9_d 149 131 98
+my_default_doors:door9_locked_a 149 131 98
+my_default_doors:door9_locked_b 149 131 98
+my_default_doors:door9_locked_c 149 131 98
+my_default_doors:door9_locked_d 149 131 98
 
 # my_door_wood
 my_door_wood:micro_wood_black_1 5 5 5
