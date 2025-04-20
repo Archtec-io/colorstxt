@@ -21919,6 +21919,7 @@ techage:ta3_motor_off 201 140 79
 techage:ta3_motor_on 201 140 79
 techage:ta3_nodedetector_off 201 140 79
 techage:ta3_nodedetector_on 201 140 79
+techage:ta3_observer 180 180 180
 techage:ta3_pipeA 232 198 74
 techage:ta3_pipeS 238 204 78
 techage:ta3_pipe_wall_entry 179 172 165
