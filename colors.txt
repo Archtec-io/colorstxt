@@ -21518,6 +21518,7 @@ techage:concentrator8 186 152 124
 techage:concentrator9 186 152 124
 techage:construction_board 211 188 148
 techage:construction_board_EN 213 194 155
+techage:construction_board_FR 211 189 154
 techage:construction_board_RU 211 189 157
 techage:construction_board_pt_BR 208 195 149
 techage:cooler 201 140 79
