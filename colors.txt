@@ -21334,7 +21334,6 @@ stairsplus:circular_saw 106 91 71
 
 # steles
 steles:desert_stone_stele 130 79 61
-steles:granite_stele 79 63 56
 steles:sandstone_stele 198 193 143
 steles:stone_stele 97 94 93
 
