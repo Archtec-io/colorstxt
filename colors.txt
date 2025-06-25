@@ -22743,8 +22743,6 @@ techage:ta4_magnet_base 195 195 195
 techage:ta4_mbadetector 24 119 174
 techage:ta4_movecontroller 219 221 218
 techage:ta4_movecontroller2 219 221 218
-techage:ta4_nitrogen 219 221 218
-techage:ta4_nitrogen_on 219 221 218
 techage:ta4_nodedetector_off 219 221 218
 techage:ta4_nodedetector_on 219 221 218
 techage:ta4_pipe_inlet 179 172 165
