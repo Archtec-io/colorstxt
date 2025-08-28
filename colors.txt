@@ -10229,11 +10229,11 @@ ethereal:olive_leaves 58 85 41
 ethereal:olive_tree_sapling 66 65 40
 ethereal:olive_trunk 137 83 58
 ethereal:olive_wood 169 108 26
-ethereal:onion_1 59 174 124
-ethereal:onion_2 59 174 124
-ethereal:onion_3 59 174 124
-ethereal:onion_4 59 174 124
-ethereal:onion_5 82 178 134
+ethereal:onion_1 92 145 60
+ethereal:onion_2 84 134 59
+ethereal:onion_3 89 140 62
+ethereal:onion_4 96 139 79
+ethereal:onion_5 105 144 87
 ethereal:orange 197 113 26
 ethereal:orange_leaves 51 104 41
 ethereal:orange_tree_sapling 105 82 33
@@ -11184,14 +11184,14 @@ ethereal:stair_yellow_wood_outer 113 128 57
 ethereal:stair_yellow_wood_right_half 113 128 57
 ethereal:stone_ladder 100 99 83
 ethereal:stone_with_etherium_ore 97 94 93
-ethereal:strawberry_1 95 130 56
-ethereal:strawberry_2 126 150 103
-ethereal:strawberry_3 140 161 112
-ethereal:strawberry_4 150 166 112
-ethereal:strawberry_5 174 175 116
-ethereal:strawberry_6 171 156 111
-ethereal:strawberry_7 175 146 99
-ethereal:strawberry_8 178 138 90
+ethereal:strawberry_1 59 95 35
+ethereal:strawberry_2 85 113 35
+ethereal:strawberry_3 88 114 35
+ethereal:strawberry_4 83 111 35
+ethereal:strawberry_5 86 113 35
+ethereal:strawberry_6 116 137 107
+ethereal:strawberry_7 144 156 130
+ethereal:strawberry_8 119 93 41
 ethereal:stripped_banana_trunk 180 190 114
 ethereal:stripped_birch_trunk 197 190 165
 ethereal:stripped_frost_tree 123 159 208
@@ -13768,7 +13768,7 @@ ilights:light_on 91 91 91
 # illumination
 
 # itemframes
-itemframes:frame 175 146 120
+itemframes:frame 182 183 174
 itemframes:frame_invis 0 0 0
 itemframes:pedestal 131 126 125
 
