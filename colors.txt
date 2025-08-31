@@ -24438,11 +24438,13 @@ xdecor:panel_woodframed_glass_15 157 119 106
 xdecor:panel_woodframed_glass_2 157 119 106
 xdecor:panel_woodframed_glass_4 157 119 106
 xdecor:panel_woodframed_glass_8 157 119 106
+xdecor:potted_chrysanthemum_green 115 119 43
 xdecor:potted_dandelion_white 131 129 100
 xdecor:potted_dandelion_yellow 141 131 59
 xdecor:potted_geranium 96 102 87
 xdecor:potted_rose 121 86 42
 xdecor:potted_tulip 137 101 45
+xdecor:potted_tulip_black 91 87 47
 xdecor:potted_viola 110 89 79
 xdecor:pressure_stone_off 150 150 154
 xdecor:pressure_stone_on 150 150 154
