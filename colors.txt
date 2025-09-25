@@ -6998,11 +6998,11 @@ default:goldblock_technic_cnc_sphere 231 203 35
 default:goldblock_technic_cnc_spike 231 203 35
 default:goldblock_technic_cnc_stick 231 203 35
 default:goldblock_technic_cnc_twocurvededge 231 203 35
-default:grass_1 76 109 38
-default:grass_2 83 111 45
-default:grass_3 86 112 49
-default:grass_4 91 114 55
-default:grass_5 94 114 61
+default:grass_1 100 140 54
+default:grass_2 98 139 55
+default:grass_3 94 136 53
+default:grass_4 89 133 48
+default:grass_5 86 126 48
 default:gravel 132 132 132
 default:ice 168 206 247
 default:ice_technic_cnc_cylinder 168 206 247
@@ -7023,7 +7023,7 @@ default:ice_technic_cnc_sphere 168 206 247
 default:ice_technic_cnc_spike 168 206 247
 default:ice_technic_cnc_stick 168 206 247
 default:ice_technic_cnc_twocurvededge 168 206 247
-default:junglegrass 85 109 65
+default:junglegrass 67 110 28
 default:jungleleaves 22 31 16
 default:junglesapling 51 39 15
 default:jungletree 121 97 62
@@ -10229,11 +10229,11 @@ ethereal:olive_leaves 58 85 41
 ethereal:olive_tree_sapling 66 65 40
 ethereal:olive_trunk 137 83 58
 ethereal:olive_wood 169 108 26
-ethereal:onion_1 92 145 60
-ethereal:onion_2 84 134 59
-ethereal:onion_3 89 140 62
-ethereal:onion_4 96 139 79
-ethereal:onion_5 105 144 87
+ethereal:onion_1 59 174 124
+ethereal:onion_2 59 174 124
+ethereal:onion_3 59 174 124
+ethereal:onion_4 59 174 124
+ethereal:onion_5 82 178 134
 ethereal:orange 197 113 26
 ethereal:orange_leaves 51 104 41
 ethereal:orange_tree_sapling 105 82 33
@@ -12543,7 +12543,7 @@ flowers:sunflower 125 120 12
 flowers:tulip 156 101 44
 flowers:tulip_black 78 120 72
 flowers:viola 115 69 184
-flowers:waterlily 93 122 40
+flowers:waterlily 107 160 68
 flowers:waterlily_225 92 121 39
 flowers:waterlily_45 93 121 39
 flowers:waterlily_675 91 120 38
@@ -12551,7 +12551,7 @@ flowers:waterlily_s1 87 116 33
 flowers:waterlily_s2 72 105 2
 flowers:waterlily_s3 74 107 3
 flowers:waterlily_s4 75 108 3
-flowers:waterlily_waving 93 122 40
+flowers:waterlily_waving 107 160 68
 
 # framedglass
 framedglass:steel_framed_glass 122 123 118
@@ -13768,7 +13768,7 @@ ilights:light_on 91 91 91
 # illumination
 
 # itemframes
-itemframes:frame 182 183 174
+itemframes:frame 175 146 120
 itemframes:frame_invis 0 0 0
 itemframes:pedestal 131 126 125
 
