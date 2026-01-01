@@ -6622,6 +6622,7 @@ darkage:stair_tuff_outer 179 154 129
 darkage:stair_tuff_right_half 179 154 129
 darkage:stone_brick 139 131 126
 darkage:stone_brick_wall 139 131 126
+darkage:straw_bale 175 151 60
 darkage:tuff 179 154 129
 darkage:tuff_bricks 164 141 117
 darkage:tuff_bricks_wall 164 141 117
@@ -21401,6 +21402,7 @@ stairsplus:circular_saw 106 91 71
 
 # steles
 steles:desert_stone_stele 130 79 61
+steles:granite_stele 79 63 56
 steles:sandstone_stele 198 193 143
 steles:stone_stele 97 94 93
 
