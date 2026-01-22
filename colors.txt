@@ -10409,6 +10409,7 @@ ethereal:panel_yellow_wood_4 113 128 57
 ethereal:panel_yellow_wood_8 113 128 57
 ethereal:paper_wall 187 164 136
 ethereal:prairie_dirt 122 157 68
+ethereal:prairie_moss 122 157 68
 ethereal:quicksand2 214 207 158
 ethereal:redwood_leaves 28 82 56
 ethereal:redwood_sapling 74 72 38
