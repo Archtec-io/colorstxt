@@ -16790,6 +16790,7 @@ moreblocks:stone_tile_technic_cnc_spike 131 131 131
 moreblocks:stone_tile_technic_cnc_stick 131 131 131
 moreblocks:stone_tile_technic_cnc_twocurvededge 131 131 131
 moreblocks:super_glow_glass 247 247 247
+moreblocks:tar 94 94 94
 moreblocks:trap_clean_glass 192 192 227
 moreblocks:trap_clean_glow_glass 192 192 227
 moreblocks:trap_clean_super_glow_glass 192 192 227
