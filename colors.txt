@@ -23621,6 +23621,8 @@ techage:ta4_waterremover_act 219 221 218
 techage:ta4_waterremover_pas 219 221 218
 techage:ta4_wind_turbine 254 254 254
 techage:ta4_wind_turbine_nacelle 254 254 254
+techage:ta5_digitizer_act 219 221 218
+techage:ta5_digitizer_pas 219 221 218
 techage:ta5_flycontroller 219 221 218
 techage:ta5_fr_controller_act 219 221 218
 techage:ta5_fr_controller_pas 219 221 218
