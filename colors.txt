@@ -13032,6 +13032,11 @@ farming:hemp_oil 194 187 148
 farming:hemp_rope 103 111 14
 farming:jackolantern 188 125 4
 farming:jackolantern_on 188 125 4
+farming:kiwi 144 117 56
+farming:kiwi_leaves 93 134 77
+farming:kiwi_sapling 71 105 35
+farming:kiwi_vine 148 98 68
+farming:kiwi_wood 148 98 68
 farming:lettuce_1 70 145 34
 farming:lettuce_2 69 142 33
 farming:lettuce_3 79 137 36
